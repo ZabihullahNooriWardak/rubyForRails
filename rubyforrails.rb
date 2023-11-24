@@ -14,7 +14,7 @@ custom_array
 end
 
 
- p custom_first(arr)
+ p custom_first(arr,1)
 
 
 
@@ -31,5 +31,5 @@ def custom_last(arr,num=0)
        custom_array
 end
 
-p custom_last(arr,4)
+p custom_last(arr,1)
 p arr
